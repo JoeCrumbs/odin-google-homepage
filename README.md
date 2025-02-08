@@ -2,9 +2,11 @@
 
 ## [Project 1 - Build the google.com homepage](https://www.theodinproject.com/courses/foundations/lessons/html-css#assignment)
 
-This project is no longer part of The Odin Projects curriculum. It was replaced with the recipes and landing page projects (see my other repositories).
+> [!NOTE]
+> This project is no longer part of The Odin Projects curriculum. It was replaced with the recipes and landing page projects (see my other repositories).
 
 **Assignment**
+
 Easy Version: Build the Google.com homepage
 (the simple one with just a search box).
 
