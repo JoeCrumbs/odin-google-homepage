@@ -3,7 +3,7 @@
 ## [Project 1 - Build the google.com homepage](https://www.theodinproject.com/courses/foundations/lessons/html-css#assignment)
 
 > [!NOTE]
-> Google flagged my live page https://joecrumbs.github.io/odin-google-homepage as fishing so i had to disable the page
+> Google flagged my live page https://joecrumbs.github.io/odin-google-homepage as fishing so i had to disable the page.
 > This project is no longer part of The Odin Projects curriculum. It was replaced with the recipes and landing page projects (see my other repositories).
 
 **Assignment**
